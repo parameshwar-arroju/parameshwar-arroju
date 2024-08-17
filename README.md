@@ -1,6 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=parameshwar-arroju&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=parameshwar-arroju&icon=0&color=1" alt="Visitor Count"/>
+  </a>
+    <img src="https://res.cloudinary.com/dckbkdfyi/image/upload/f_auto,q_auto/v1/Parameshwar.dev/zdncfnqkzestdqfddtrm" alt="Material Bread logo">    
+</p>
 
----
 
 # 💫 About Me:
 
